@@ -1,0 +1,25 @@
+{
+  "name": "job-portal-server",
+  "version": "1.0.0",
+  "description": "serves routes, db connections",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SGGaita/job-portal.git"
+  },
+  "keywords": [
+    "nodejs",
+    "job",
+    "portal",
+    "express"
+  ],
+  "author": "Steve Gaita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SGGaita/job-portal/issues"
+  },
+  "homepage": "https://github.com/SGGaita/job-portal#readme"
+}
